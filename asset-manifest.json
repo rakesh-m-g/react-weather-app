@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/eakesh-m-g/react-weather-app/static/css/main.3bcb739d.css",
+    "main.js": "/eakesh-m-g/react-weather-app/static/js/main.41c26751.js",
+    "static/js/787.d9312eb8.chunk.js": "/eakesh-m-g/react-weather-app/static/js/787.d9312eb8.chunk.js",
+    "static/media/night.jpg": "/eakesh-m-g/react-weather-app/static/media/night.a55904239c711da85393.jpg",
+    "index.html": "/eakesh-m-g/react-weather-app/index.html",
+    "main.3bcb739d.css.map": "/eakesh-m-g/react-weather-app/static/css/main.3bcb739d.css.map",
+    "main.41c26751.js.map": "/eakesh-m-g/react-weather-app/static/js/main.41c26751.js.map",
+    "787.d9312eb8.chunk.js.map": "/eakesh-m-g/react-weather-app/static/js/787.d9312eb8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3bcb739d.css",
+    "static/js/main.41c26751.js"
+  ]
+}
