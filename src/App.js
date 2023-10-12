@@ -1,7 +1,6 @@
 import React, { useState, useEffect } from "react";
 import "./App.css";
 import 'bootstrap/dist/css/bootstrap.css';
-import night from "./night.jpg";
 
 const apiKey = "2VXNCLWCN2QYBZTHRJU89EP8Q";
 
